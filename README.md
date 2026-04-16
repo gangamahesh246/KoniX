@@ -78,7 +78,7 @@ Endpoints:
 App runs at: http://localhost:5173
 
 ### Project Structure
-
+```
 KoniX/
 ├── server/
 │   ├── index.js              # Express mock server
@@ -107,3 +107,4 @@ KoniX/
 │   │       └── formatCurrency.js
 │
 └── README.md
+```
